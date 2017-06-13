@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\Player.cs" />
+ <Reference Include="Facebook.Unity.Settings">
+ <HintPath>C:/Users/tales/Documents/Nova pasta/ProjetoAvance/Jogo2.1/Fase1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

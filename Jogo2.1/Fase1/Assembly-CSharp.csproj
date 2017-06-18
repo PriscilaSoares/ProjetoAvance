@@ -46,7 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\barra.cs" />
      <Compile Include="Assets\scripts\Player.cs" />
+     <Compile Include="Assets\scripts\vidapersonagem.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/tales/Documents/Nova pasta/ProjetoAvance/Jogo2.1/Fase1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
